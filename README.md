@@ -88,3 +88,16 @@ Full-Stack Development
 Backend & System Design
         ↓
 Building Production-Ready Applications
+I'm currently focused on becoming stronger at building secure, scalable and production-ready applications while developing my cybersecurity knowledge.
+
+📈 GitHub
+
+I use GitHub to build, experiment, document my projects and continuously improve my development skills.
+
+🤝 Let's Connect
+💼 LinkedIn
+🐙 GitHub
+🌐 Portfolio
+⭐ Thanks for visiting my profile!
+
+Building. Learning. Improving.
